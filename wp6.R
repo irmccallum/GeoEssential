@@ -1,11 +1,11 @@
 # GEOEssential
 # SDG Workflow for WP6 Food Water Energy Nexus
 
+# 6.6.1 Change in the extent of water-related ecosystems over time 
+
 # https://unstats.un.org/sdgs/tierIII-indicators/files/Tier3-06-06-01.pdf
 # https://global-surface-water.appspot.com/
 # gadm.org
-
-# 6.6.1 Change in the extent of water-related ecosystems over time 
 
 rm(list = ls())
 # first install.packages("raster")

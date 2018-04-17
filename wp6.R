@@ -12,7 +12,7 @@ rm(list = ls())
 library(raster)
 
 # set working directory
-setwd("P:/geobene2/EOS_Documents/Projects/H2020_ERA PLANET_GeoEssential/WP6/workflow")
+#setwd("c:/GeoEssential/WP6/workflow")
 
 # load country shapefile
 c <- shapefile(paste0(getwd(),'/GMB_adm_shp/GMB_adm0.shp'))
